@@ -66,7 +66,6 @@ This project aims to answer the following business questions:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
 ### SQL
 - PostgreSQL
