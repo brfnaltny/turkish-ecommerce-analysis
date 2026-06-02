@@ -66,7 +66,7 @@ Bu proje aşağıdaki iş sorularını cevaplamayı amaçlar:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+
 
 ### SQL
 - PostgreSQL
@@ -111,7 +111,7 @@ turkish-ecommerce-customer-behavior-analysis/
 - Tekrar eden kayıtların temizlenmesi
 - Tarih dönüşümleri
 - Feature engineering
-- Engagement score oluşturma
+
 
 ### 2. Keşifsel Veri Analizi (EDA)
 - Satış analizi
@@ -168,20 +168,29 @@ Power BI dashboard içeriği:
 - Toplam Sipariş
 - Toplam Müşteri
 - Ortalama Sipariş Değeri
+- Ortalama Sipariş Değeri
+- Zaman İçinde Gelir Trendi
+- Kategoriye Göre Gelir Payı
+- Şehirlere Göre Gelir
 
 ### Satış Analizi
 - Kategori bazlı gelir
-- Aylık gelir trendi
-- Şehirlere göre gelir
+- Aylık Satış Trendi
+- Kategoriye Göre Satılan Ürün Adedi
+- İndirimlerin Gelire Etkisi
 
 ### Müşteri Analizi
 - VIP müşteriler
-- Müşteri segmentleri
-- Tekrar eden müşteriler
+- Yeni ve Tekrar Eden Müşteriler
+- Müşteri Yaş Dağılımı
+- Gelire Göre En İyi 10 Müşteri
+- Cihaz Kullanım Dağılımı
 
 ### Teslimat Analizi
 - Teslimat süresi vs müşteri puanı
-- Teslimat performans metrikleri
+- Şehirlere Göre Ortalama Teslimat Süresi
+- Teslimat Süresi Trendi
+- Müşteri Puan Dağılımı
 
 ---
 
