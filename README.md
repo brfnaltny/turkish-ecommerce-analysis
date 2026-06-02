@@ -111,7 +111,6 @@ turkish-ecommerce-customer-behavior-analysis/
 - Duplicate record analysis
 - Date conversion
 - Feature engineering
-- Engagement score creation
 
 ### 2. Exploratory Data Analysis
 - Sales analysis
@@ -168,20 +167,27 @@ Interactive Power BI dashboard including:
 - Total Orders
 - Total Customers
 - Average Order Value
+- Revenue Trend Over Time
+- Revenue Share by Category
+- Revenue by City
 
 ### Sales Analysis
 - Revenue by Category
-- Monthly Revenue Trend
-- Revenue by City
+- Monthly Sales Trend
+- Quantity Sold by Category
+- Discount Impact on Revenue
 
 ### Customer Analysis
-- VIP Customers
-- Customer Segments
-- Returning Customer Analysis
+- New vs Returning Customers
+- Customer Age Distribution
+- Top 10 Customers by Revenue
+- Device Usage Distribution
 
 ### Delivery Analysis
 - Delivery Time vs Customer Rating
-- Delivery Performance Metrics
+- Average Delivery Time by City
+- Delivery Time Trend
+- Customer Rating Distribution
 
 ---
 
