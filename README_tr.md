@@ -1,4 +1,4 @@
-# Türk E-Ticaret Müşteri Davranışı Analizi
+# Türk E-Ticaret Analizi
 
 ## Proje Genel Bakış
 
