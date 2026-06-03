@@ -1,4 +1,4 @@
-# Türk E-Ticaret Analizi
+# E-Ticaret Veri Analitiği Projesi
 
 ## Proje Genel Bakış
 
