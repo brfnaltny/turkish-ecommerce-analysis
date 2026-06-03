@@ -1,4 +1,4 @@
-# Turkish E-Commerce Customer Behavior Analysis
+# Turkish E-Commerce Analysis
 
 ## Project Overview
 
