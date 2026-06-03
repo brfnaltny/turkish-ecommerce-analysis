@@ -1,4 +1,4 @@
-# Turkish E-Commerce Analysis
+# E-Commerce Data Analytics Project
 
 ## Project Overview
 
